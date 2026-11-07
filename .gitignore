@@ -42,4 +42,5 @@ yarn-error.*
 /android-prebuild-backup
 
 # local QA screenshots and generated APKs
+*.zip
 /artifacts/
