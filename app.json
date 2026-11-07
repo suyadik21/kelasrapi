@@ -1,15 +1,13 @@
 {
   "expo": {
-    "name": "kelasrapi",
+    "name": "KelasRapi",
     "slug": "kelasrapi",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "ios": {
-      "supportsTablet": true
-    },
+    "userInterfaceStyle": "automatic",
     "android": {
+      "package": "id.kelasrapi.app",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -18,8 +16,17 @@
       },
       "predictiveBackGestureEnabled": false
     },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "id.kelasrapi.app"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-sharing",
+      "expo-font"
+    ]
   }
 }

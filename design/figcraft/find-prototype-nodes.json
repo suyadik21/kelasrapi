@@ -1,0 +1,6 @@
+[
+  {"command":"node.find","params":{"text":"Mulai absensi","limit":20}},
+  {"command":"node.find","params":{"text":"Semua hadir","limit":20}},
+  {"command":"node.find","params":{"text":"Rekap","limit":20}},
+  {"command":"node.find","params":{"text":"Simpan absensi","limit":20}}
+]

@@ -1,0 +1,4 @@
+[
+  {"command":"component.createMultiple","params":{"ids":[117,119,121]}},
+  {"command":"file.save","params":{"path":"design/figcraft/kelasrapi.figcraft","overwrite":true}}
+]

@@ -1,0 +1,11 @@
+[
+  {"command":"node.get","params":{"id":14,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":33,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":37,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":42,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":32,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":21,"fields":["name","interactions"]}},
+  {"command":"node.get","params":{"id":8,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":26,"fields":["name","characters","interactions"]}},
+  {"command":"node.get","params":{"id":110,"fields":["name","characters","interactions"]}}
+]

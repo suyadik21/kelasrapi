@@ -1,0 +1,6 @@
+[
+  {"command":"node.find","params":{"name":"Beranda","limit":10}},
+  {"command":"node.find","params":{"name":"Hadir","limit":10}},
+  {"command":"node.find","params":{"text":"Jurnal belum diisi","limit":10}},
+  {"command":"node.find","params":{"text":"Tanpa Firebase atau login","limit":10}}
+]

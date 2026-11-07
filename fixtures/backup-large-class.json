@@ -1,0 +1,3555 @@
+{
+  "format": "kelasrapi-backup",
+  "schemaVersion": 1,
+  "createdAt": "2026-11-06T08:00:00.000Z",
+  "data": {
+    "classes": [
+      {
+        "id": "class-large",
+        "name": "Kelas Besar 500",
+        "group_name": "Benchmark",
+        "archived_at": null
+      }
+    ],
+    "students": [
+      {
+        "id": "student-large-0001",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0001",
+        "sort_order": 0,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0002",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0002",
+        "sort_order": 1,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0003",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0003",
+        "sort_order": 2,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0004",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0004",
+        "sort_order": 3,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0005",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0005",
+        "sort_order": 4,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0006",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0006",
+        "sort_order": 5,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0007",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0007",
+        "sort_order": 6,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0008",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0008",
+        "sort_order": 7,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0009",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0009",
+        "sort_order": 8,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0010",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0010",
+        "sort_order": 9,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0011",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0011",
+        "sort_order": 10,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0012",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0012",
+        "sort_order": 11,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0013",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0013",
+        "sort_order": 12,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0014",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0014",
+        "sort_order": 13,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0015",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0015",
+        "sort_order": 14,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0016",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0016",
+        "sort_order": 15,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0017",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0017",
+        "sort_order": 16,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0018",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0018",
+        "sort_order": 17,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0019",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0019",
+        "sort_order": 18,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0020",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0020",
+        "sort_order": 19,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0021",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0021",
+        "sort_order": 20,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0022",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0022",
+        "sort_order": 21,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0023",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0023",
+        "sort_order": 22,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0024",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0024",
+        "sort_order": 23,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0025",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0025",
+        "sort_order": 24,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0026",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0026",
+        "sort_order": 25,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0027",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0027",
+        "sort_order": 26,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0028",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0028",
+        "sort_order": 27,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0029",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0029",
+        "sort_order": 28,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0030",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0030",
+        "sort_order": 29,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0031",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0031",
+        "sort_order": 30,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0032",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0032",
+        "sort_order": 31,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0033",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0033",
+        "sort_order": 32,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0034",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0034",
+        "sort_order": 33,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0035",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0035",
+        "sort_order": 34,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0036",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0036",
+        "sort_order": 35,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0037",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0037",
+        "sort_order": 36,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0038",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0038",
+        "sort_order": 37,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0039",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0039",
+        "sort_order": 38,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0040",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0040",
+        "sort_order": 39,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0041",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0041",
+        "sort_order": 40,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0042",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0042",
+        "sort_order": 41,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0043",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0043",
+        "sort_order": 42,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0044",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0044",
+        "sort_order": 43,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0045",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0045",
+        "sort_order": 44,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0046",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0046",
+        "sort_order": 45,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0047",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0047",
+        "sort_order": 46,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0048",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0048",
+        "sort_order": 47,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0049",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0049",
+        "sort_order": 48,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0050",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0050",
+        "sort_order": 49,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0051",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0051",
+        "sort_order": 50,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0052",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0052",
+        "sort_order": 51,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0053",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0053",
+        "sort_order": 52,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0054",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0054",
+        "sort_order": 53,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0055",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0055",
+        "sort_order": 54,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0056",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0056",
+        "sort_order": 55,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0057",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0057",
+        "sort_order": 56,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0058",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0058",
+        "sort_order": 57,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0059",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0059",
+        "sort_order": 58,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0060",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0060",
+        "sort_order": 59,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0061",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0061",
+        "sort_order": 60,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0062",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0062",
+        "sort_order": 61,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0063",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0063",
+        "sort_order": 62,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0064",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0064",
+        "sort_order": 63,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0065",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0065",
+        "sort_order": 64,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0066",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0066",
+        "sort_order": 65,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0067",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0067",
+        "sort_order": 66,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0068",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0068",
+        "sort_order": 67,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0069",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0069",
+        "sort_order": 68,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0070",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0070",
+        "sort_order": 69,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0071",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0071",
+        "sort_order": 70,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0072",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0072",
+        "sort_order": 71,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0073",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0073",
+        "sort_order": 72,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0074",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0074",
+        "sort_order": 73,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0075",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0075",
+        "sort_order": 74,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0076",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0076",
+        "sort_order": 75,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0077",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0077",
+        "sort_order": 76,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0078",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0078",
+        "sort_order": 77,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0079",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0079",
+        "sort_order": 78,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0080",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0080",
+        "sort_order": 79,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0081",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0081",
+        "sort_order": 80,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0082",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0082",
+        "sort_order": 81,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0083",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0083",
+        "sort_order": 82,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0084",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0084",
+        "sort_order": 83,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0085",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0085",
+        "sort_order": 84,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0086",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0086",
+        "sort_order": 85,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0087",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0087",
+        "sort_order": 86,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0088",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0088",
+        "sort_order": 87,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0089",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0089",
+        "sort_order": 88,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0090",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0090",
+        "sort_order": 89,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0091",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0091",
+        "sort_order": 90,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0092",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0092",
+        "sort_order": 91,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0093",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0093",
+        "sort_order": 92,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0094",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0094",
+        "sort_order": 93,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0095",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0095",
+        "sort_order": 94,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0096",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0096",
+        "sort_order": 95,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0097",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0097",
+        "sort_order": 96,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0098",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0098",
+        "sort_order": 97,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0099",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0099",
+        "sort_order": 98,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0100",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0100",
+        "sort_order": 99,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0101",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0101",
+        "sort_order": 100,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0102",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0102",
+        "sort_order": 101,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0103",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0103",
+        "sort_order": 102,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0104",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0104",
+        "sort_order": 103,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0105",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0105",
+        "sort_order": 104,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0106",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0106",
+        "sort_order": 105,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0107",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0107",
+        "sort_order": 106,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0108",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0108",
+        "sort_order": 107,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0109",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0109",
+        "sort_order": 108,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0110",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0110",
+        "sort_order": 109,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0111",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0111",
+        "sort_order": 110,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0112",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0112",
+        "sort_order": 111,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0113",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0113",
+        "sort_order": 112,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0114",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0114",
+        "sort_order": 113,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0115",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0115",
+        "sort_order": 114,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0116",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0116",
+        "sort_order": 115,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0117",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0117",
+        "sort_order": 116,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0118",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0118",
+        "sort_order": 117,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0119",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0119",
+        "sort_order": 118,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0120",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0120",
+        "sort_order": 119,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0121",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0121",
+        "sort_order": 120,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0122",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0122",
+        "sort_order": 121,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0123",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0123",
+        "sort_order": 122,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0124",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0124",
+        "sort_order": 123,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0125",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0125",
+        "sort_order": 124,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0126",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0126",
+        "sort_order": 125,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0127",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0127",
+        "sort_order": 126,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0128",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0128",
+        "sort_order": 127,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0129",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0129",
+        "sort_order": 128,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0130",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0130",
+        "sort_order": 129,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0131",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0131",
+        "sort_order": 130,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0132",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0132",
+        "sort_order": 131,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0133",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0133",
+        "sort_order": 132,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0134",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0134",
+        "sort_order": 133,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0135",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0135",
+        "sort_order": 134,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0136",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0136",
+        "sort_order": 135,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0137",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0137",
+        "sort_order": 136,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0138",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0138",
+        "sort_order": 137,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0139",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0139",
+        "sort_order": 138,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0140",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0140",
+        "sort_order": 139,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0141",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0141",
+        "sort_order": 140,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0142",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0142",
+        "sort_order": 141,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0143",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0143",
+        "sort_order": 142,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0144",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0144",
+        "sort_order": 143,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0145",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0145",
+        "sort_order": 144,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0146",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0146",
+        "sort_order": 145,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0147",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0147",
+        "sort_order": 146,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0148",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0148",
+        "sort_order": 147,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0149",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0149",
+        "sort_order": 148,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0150",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0150",
+        "sort_order": 149,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0151",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0151",
+        "sort_order": 150,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0152",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0152",
+        "sort_order": 151,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0153",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0153",
+        "sort_order": 152,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0154",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0154",
+        "sort_order": 153,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0155",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0155",
+        "sort_order": 154,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0156",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0156",
+        "sort_order": 155,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0157",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0157",
+        "sort_order": 156,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0158",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0158",
+        "sort_order": 157,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0159",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0159",
+        "sort_order": 158,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0160",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0160",
+        "sort_order": 159,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0161",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0161",
+        "sort_order": 160,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0162",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0162",
+        "sort_order": 161,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0163",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0163",
+        "sort_order": 162,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0164",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0164",
+        "sort_order": 163,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0165",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0165",
+        "sort_order": 164,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0166",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0166",
+        "sort_order": 165,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0167",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0167",
+        "sort_order": 166,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0168",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0168",
+        "sort_order": 167,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0169",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0169",
+        "sort_order": 168,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0170",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0170",
+        "sort_order": 169,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0171",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0171",
+        "sort_order": 170,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0172",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0172",
+        "sort_order": 171,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0173",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0173",
+        "sort_order": 172,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0174",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0174",
+        "sort_order": 173,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0175",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0175",
+        "sort_order": 174,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0176",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0176",
+        "sort_order": 175,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0177",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0177",
+        "sort_order": 176,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0178",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0178",
+        "sort_order": 177,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0179",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0179",
+        "sort_order": 178,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0180",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0180",
+        "sort_order": 179,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0181",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0181",
+        "sort_order": 180,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0182",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0182",
+        "sort_order": 181,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0183",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0183",
+        "sort_order": 182,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0184",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0184",
+        "sort_order": 183,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0185",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0185",
+        "sort_order": 184,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0186",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0186",
+        "sort_order": 185,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0187",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0187",
+        "sort_order": 186,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0188",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0188",
+        "sort_order": 187,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0189",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0189",
+        "sort_order": 188,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0190",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0190",
+        "sort_order": 189,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0191",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0191",
+        "sort_order": 190,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0192",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0192",
+        "sort_order": 191,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0193",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0193",
+        "sort_order": 192,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0194",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0194",
+        "sort_order": 193,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0195",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0195",
+        "sort_order": 194,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0196",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0196",
+        "sort_order": 195,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0197",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0197",
+        "sort_order": 196,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0198",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0198",
+        "sort_order": 197,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0199",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0199",
+        "sort_order": 198,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0200",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0200",
+        "sort_order": 199,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0201",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0201",
+        "sort_order": 200,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0202",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0202",
+        "sort_order": 201,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0203",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0203",
+        "sort_order": 202,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0204",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0204",
+        "sort_order": 203,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0205",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0205",
+        "sort_order": 204,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0206",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0206",
+        "sort_order": 205,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0207",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0207",
+        "sort_order": 206,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0208",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0208",
+        "sort_order": 207,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0209",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0209",
+        "sort_order": 208,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0210",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0210",
+        "sort_order": 209,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0211",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0211",
+        "sort_order": 210,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0212",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0212",
+        "sort_order": 211,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0213",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0213",
+        "sort_order": 212,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0214",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0214",
+        "sort_order": 213,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0215",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0215",
+        "sort_order": 214,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0216",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0216",
+        "sort_order": 215,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0217",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0217",
+        "sort_order": 216,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0218",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0218",
+        "sort_order": 217,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0219",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0219",
+        "sort_order": 218,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0220",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0220",
+        "sort_order": 219,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0221",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0221",
+        "sort_order": 220,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0222",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0222",
+        "sort_order": 221,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0223",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0223",
+        "sort_order": 222,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0224",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0224",
+        "sort_order": 223,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0225",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0225",
+        "sort_order": 224,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0226",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0226",
+        "sort_order": 225,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0227",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0227",
+        "sort_order": 226,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0228",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0228",
+        "sort_order": 227,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0229",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0229",
+        "sort_order": 228,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0230",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0230",
+        "sort_order": 229,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0231",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0231",
+        "sort_order": 230,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0232",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0232",
+        "sort_order": 231,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0233",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0233",
+        "sort_order": 232,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0234",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0234",
+        "sort_order": 233,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0235",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0235",
+        "sort_order": 234,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0236",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0236",
+        "sort_order": 235,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0237",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0237",
+        "sort_order": 236,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0238",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0238",
+        "sort_order": 237,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0239",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0239",
+        "sort_order": 238,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0240",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0240",
+        "sort_order": 239,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0241",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0241",
+        "sort_order": 240,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0242",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0242",
+        "sort_order": 241,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0243",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0243",
+        "sort_order": 242,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0244",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0244",
+        "sort_order": 243,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0245",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0245",
+        "sort_order": 244,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0246",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0246",
+        "sort_order": 245,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0247",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0247",
+        "sort_order": 246,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0248",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0248",
+        "sort_order": 247,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0249",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0249",
+        "sort_order": 248,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0250",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0250",
+        "sort_order": 249,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0251",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0251",
+        "sort_order": 250,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0252",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0252",
+        "sort_order": 251,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0253",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0253",
+        "sort_order": 252,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0254",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0254",
+        "sort_order": 253,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0255",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0255",
+        "sort_order": 254,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0256",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0256",
+        "sort_order": 255,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0257",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0257",
+        "sort_order": 256,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0258",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0258",
+        "sort_order": 257,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0259",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0259",
+        "sort_order": 258,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0260",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0260",
+        "sort_order": 259,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0261",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0261",
+        "sort_order": 260,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0262",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0262",
+        "sort_order": 261,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0263",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0263",
+        "sort_order": 262,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0264",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0264",
+        "sort_order": 263,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0265",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0265",
+        "sort_order": 264,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0266",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0266",
+        "sort_order": 265,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0267",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0267",
+        "sort_order": 266,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0268",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0268",
+        "sort_order": 267,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0269",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0269",
+        "sort_order": 268,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0270",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0270",
+        "sort_order": 269,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0271",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0271",
+        "sort_order": 270,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0272",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0272",
+        "sort_order": 271,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0273",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0273",
+        "sort_order": 272,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0274",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0274",
+        "sort_order": 273,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0275",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0275",
+        "sort_order": 274,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0276",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0276",
+        "sort_order": 275,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0277",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0277",
+        "sort_order": 276,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0278",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0278",
+        "sort_order": 277,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0279",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0279",
+        "sort_order": 278,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0280",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0280",
+        "sort_order": 279,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0281",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0281",
+        "sort_order": 280,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0282",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0282",
+        "sort_order": 281,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0283",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0283",
+        "sort_order": 282,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0284",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0284",
+        "sort_order": 283,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0285",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0285",
+        "sort_order": 284,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0286",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0286",
+        "sort_order": 285,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0287",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0287",
+        "sort_order": 286,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0288",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0288",
+        "sort_order": 287,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0289",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0289",
+        "sort_order": 288,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0290",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0290",
+        "sort_order": 289,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0291",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0291",
+        "sort_order": 290,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0292",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0292",
+        "sort_order": 291,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0293",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0293",
+        "sort_order": 292,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0294",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0294",
+        "sort_order": 293,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0295",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0295",
+        "sort_order": 294,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0296",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0296",
+        "sort_order": 295,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0297",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0297",
+        "sort_order": 296,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0298",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0298",
+        "sort_order": 297,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0299",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0299",
+        "sort_order": 298,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0300",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0300",
+        "sort_order": 299,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0301",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0301",
+        "sort_order": 300,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0302",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0302",
+        "sort_order": 301,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0303",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0303",
+        "sort_order": 302,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0304",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0304",
+        "sort_order": 303,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0305",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0305",
+        "sort_order": 304,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0306",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0306",
+        "sort_order": 305,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0307",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0307",
+        "sort_order": 306,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0308",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0308",
+        "sort_order": 307,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0309",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0309",
+        "sort_order": 308,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0310",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0310",
+        "sort_order": 309,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0311",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0311",
+        "sort_order": 310,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0312",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0312",
+        "sort_order": 311,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0313",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0313",
+        "sort_order": 312,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0314",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0314",
+        "sort_order": 313,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0315",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0315",
+        "sort_order": 314,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0316",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0316",
+        "sort_order": 315,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0317",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0317",
+        "sort_order": 316,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0318",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0318",
+        "sort_order": 317,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0319",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0319",
+        "sort_order": 318,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0320",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0320",
+        "sort_order": 319,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0321",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0321",
+        "sort_order": 320,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0322",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0322",
+        "sort_order": 321,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0323",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0323",
+        "sort_order": 322,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0324",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0324",
+        "sort_order": 323,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0325",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0325",
+        "sort_order": 324,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0326",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0326",
+        "sort_order": 325,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0327",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0327",
+        "sort_order": 326,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0328",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0328",
+        "sort_order": 327,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0329",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0329",
+        "sort_order": 328,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0330",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0330",
+        "sort_order": 329,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0331",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0331",
+        "sort_order": 330,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0332",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0332",
+        "sort_order": 331,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0333",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0333",
+        "sort_order": 332,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0334",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0334",
+        "sort_order": 333,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0335",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0335",
+        "sort_order": 334,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0336",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0336",
+        "sort_order": 335,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0337",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0337",
+        "sort_order": 336,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0338",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0338",
+        "sort_order": 337,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0339",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0339",
+        "sort_order": 338,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0340",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0340",
+        "sort_order": 339,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0341",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0341",
+        "sort_order": 340,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0342",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0342",
+        "sort_order": 341,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0343",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0343",
+        "sort_order": 342,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0344",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0344",
+        "sort_order": 343,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0345",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0345",
+        "sort_order": 344,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0346",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0346",
+        "sort_order": 345,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0347",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0347",
+        "sort_order": 346,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0348",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0348",
+        "sort_order": 347,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0349",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0349",
+        "sort_order": 348,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0350",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0350",
+        "sort_order": 349,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0351",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0351",
+        "sort_order": 350,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0352",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0352",
+        "sort_order": 351,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0353",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0353",
+        "sort_order": 352,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0354",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0354",
+        "sort_order": 353,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0355",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0355",
+        "sort_order": 354,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0356",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0356",
+        "sort_order": 355,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0357",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0357",
+        "sort_order": 356,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0358",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0358",
+        "sort_order": 357,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0359",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0359",
+        "sort_order": 358,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0360",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0360",
+        "sort_order": 359,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0361",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0361",
+        "sort_order": 360,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0362",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0362",
+        "sort_order": 361,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0363",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0363",
+        "sort_order": 362,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0364",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0364",
+        "sort_order": 363,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0365",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0365",
+        "sort_order": 364,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0366",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0366",
+        "sort_order": 365,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0367",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0367",
+        "sort_order": 366,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0368",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0368",
+        "sort_order": 367,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0369",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0369",
+        "sort_order": 368,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0370",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0370",
+        "sort_order": 369,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0371",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0371",
+        "sort_order": 370,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0372",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0372",
+        "sort_order": 371,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0373",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0373",
+        "sort_order": 372,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0374",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0374",
+        "sort_order": 373,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0375",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0375",
+        "sort_order": 374,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0376",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0376",
+        "sort_order": 375,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0377",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0377",
+        "sort_order": 376,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0378",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0378",
+        "sort_order": 377,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0379",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0379",
+        "sort_order": 378,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0380",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0380",
+        "sort_order": 379,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0381",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0381",
+        "sort_order": 380,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0382",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0382",
+        "sort_order": 381,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0383",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0383",
+        "sort_order": 382,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0384",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0384",
+        "sort_order": 383,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0385",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0385",
+        "sort_order": 384,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0386",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0386",
+        "sort_order": 385,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0387",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0387",
+        "sort_order": 386,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0388",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0388",
+        "sort_order": 387,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0389",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0389",
+        "sort_order": 388,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0390",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0390",
+        "sort_order": 389,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0391",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0391",
+        "sort_order": 390,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0392",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0392",
+        "sort_order": 391,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0393",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0393",
+        "sort_order": 392,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0394",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0394",
+        "sort_order": 393,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0395",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0395",
+        "sort_order": 394,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0396",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0396",
+        "sort_order": 395,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0397",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0397",
+        "sort_order": 396,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0398",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0398",
+        "sort_order": 397,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0399",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0399",
+        "sort_order": 398,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0400",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0400",
+        "sort_order": 399,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0401",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0401",
+        "sort_order": 400,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0402",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0402",
+        "sort_order": 401,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0403",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0403",
+        "sort_order": 402,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0404",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0404",
+        "sort_order": 403,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0405",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0405",
+        "sort_order": 404,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0406",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0406",
+        "sort_order": 405,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0407",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0407",
+        "sort_order": 406,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0408",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0408",
+        "sort_order": 407,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0409",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0409",
+        "sort_order": 408,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0410",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0410",
+        "sort_order": 409,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0411",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0411",
+        "sort_order": 410,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0412",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0412",
+        "sort_order": 411,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0413",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0413",
+        "sort_order": 412,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0414",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0414",
+        "sort_order": 413,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0415",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0415",
+        "sort_order": 414,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0416",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0416",
+        "sort_order": 415,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0417",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0417",
+        "sort_order": 416,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0418",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0418",
+        "sort_order": 417,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0419",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0419",
+        "sort_order": 418,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0420",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0420",
+        "sort_order": 419,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0421",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0421",
+        "sort_order": 420,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0422",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0422",
+        "sort_order": 421,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0423",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0423",
+        "sort_order": 422,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0424",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0424",
+        "sort_order": 423,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0425",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0425",
+        "sort_order": 424,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0426",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0426",
+        "sort_order": 425,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0427",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0427",
+        "sort_order": 426,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0428",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0428",
+        "sort_order": 427,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0429",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0429",
+        "sort_order": 428,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0430",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0430",
+        "sort_order": 429,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0431",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0431",
+        "sort_order": 430,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0432",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0432",
+        "sort_order": 431,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0433",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0433",
+        "sort_order": 432,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0434",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0434",
+        "sort_order": 433,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0435",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0435",
+        "sort_order": 434,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0436",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0436",
+        "sort_order": 435,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0437",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0437",
+        "sort_order": 436,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0438",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0438",
+        "sort_order": 437,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0439",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0439",
+        "sort_order": 438,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0440",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0440",
+        "sort_order": 439,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0441",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0441",
+        "sort_order": 440,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0442",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0442",
+        "sort_order": 441,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0443",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0443",
+        "sort_order": 442,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0444",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0444",
+        "sort_order": 443,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0445",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0445",
+        "sort_order": 444,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0446",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0446",
+        "sort_order": 445,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0447",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0447",
+        "sort_order": 446,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0448",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0448",
+        "sort_order": 447,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0449",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0449",
+        "sort_order": 448,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0450",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0450",
+        "sort_order": 449,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0451",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0451",
+        "sort_order": 450,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0452",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0452",
+        "sort_order": 451,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0453",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0453",
+        "sort_order": 452,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0454",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0454",
+        "sort_order": 453,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0455",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0455",
+        "sort_order": 454,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0456",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0456",
+        "sort_order": 455,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0457",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0457",
+        "sort_order": 456,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0458",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0458",
+        "sort_order": 457,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0459",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0459",
+        "sort_order": 458,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0460",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0460",
+        "sort_order": 459,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0461",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0461",
+        "sort_order": 460,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0462",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0462",
+        "sort_order": 461,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0463",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0463",
+        "sort_order": 462,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0464",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0464",
+        "sort_order": 463,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0465",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0465",
+        "sort_order": 464,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0466",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0466",
+        "sort_order": 465,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0467",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0467",
+        "sort_order": 466,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0468",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0468",
+        "sort_order": 467,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0469",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0469",
+        "sort_order": 468,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0470",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0470",
+        "sort_order": 469,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0471",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0471",
+        "sort_order": 470,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0472",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0472",
+        "sort_order": 471,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0473",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0473",
+        "sort_order": 472,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0474",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0474",
+        "sort_order": 473,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0475",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0475",
+        "sort_order": 474,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0476",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0476",
+        "sort_order": 475,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0477",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0477",
+        "sort_order": 476,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0478",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0478",
+        "sort_order": 477,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0479",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0479",
+        "sort_order": 478,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0480",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0480",
+        "sort_order": 479,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0481",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0481",
+        "sort_order": 480,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0482",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0482",
+        "sort_order": 481,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0483",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0483",
+        "sort_order": 482,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0484",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0484",
+        "sort_order": 483,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0485",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0485",
+        "sort_order": 484,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0486",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0486",
+        "sort_order": 485,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0487",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0487",
+        "sort_order": 486,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0488",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0488",
+        "sort_order": 487,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0489",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0489",
+        "sort_order": 488,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0490",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0490",
+        "sort_order": 489,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0491",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0491",
+        "sort_order": 490,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0492",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0492",
+        "sort_order": 491,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0493",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0493",
+        "sort_order": 492,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0494",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0494",
+        "sort_order": 493,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0495",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0495",
+        "sort_order": 494,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0496",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0496",
+        "sort_order": 495,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0497",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0497",
+        "sort_order": 496,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0498",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0498",
+        "sort_order": 497,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0499",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0499",
+        "sort_order": 498,
+        "archived_at": null
+      },
+      {
+        "id": "student-large-0500",
+        "class_id": "class-large",
+        "name": "Siswa Benchmark 0500",
+        "sort_order": 499,
+        "archived_at": null
+      }
+    ],
+    "schedules": [],
+    "schedule_exceptions": [],
+    "agendas": [],
+    "journals": [],
+    "grading_components": [
+      {
+        "id": "component-large-math",
+        "class_id": "class-large",
+        "name": "Matematika",
+        "subject": "Matematika",
+        "category": "Tugas",
+        "max_score": 100,
+        "weight": 100,
+        "assessment_date": "2026-11-06"
+      }
+    ],
+    "scores": [
+      {
+        "component_id": "component-large-math",
+        "student_id": "student-large-0001",
+        "score": 88,
+        "note": "Nilai recovery",
+        "updated_at": "2026-11-06T08:00:00.000Z"
+      }
+    ],
+    "attendance_drafts": [
+      {
+        "class_id": "class-large",
+        "attendance_date": "2026-11-06",
+        "student_id": "student-large-0001",
+        "status": "Sakit",
+        "note": "Catatan recovery",
+        "updated_at": "2026-11-06T08:00:00.000Z"
+      }
+    ],
+    "reports": [],
+    "backups": []
+  },
+  "integrity": "93521715"
+}

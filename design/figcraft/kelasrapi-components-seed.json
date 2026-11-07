@@ -1,0 +1,12 @@
+[
+  {"command":"component.createMultiple","params":{"ids":[36,39,41,46,49,51,56,59,64,65,72,75,77,82,85]}},
+  {"command":"proto.flow.add","params":{"start":2,"name":"Attendance happy path"}},
+  {"command":"proto.interaction.add","params":{"id":14,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":33,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":37,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":42,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":32,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":21,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.flow.add","params":{"start":21,"name":"Attendance recovery"}},
+  {"command":"file.save","params":{"path":"design/figcraft/kelasrapi-extended-components.figcraft","overwrite":true}}
+]

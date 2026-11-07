@@ -1,0 +1,8 @@
+app.json
+design-system/
+design/figcraft/
+.expo/
+node_modules/
+dist/
+coverage/
+android-prebuild-backup/

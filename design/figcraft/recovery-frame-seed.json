@@ -1,0 +1,11 @@
+[
+  {"command":"frame.create","params":{"x":3780,"y":0,"width":360,"height":800,"name":"Attendance recovery - Mobile","props":{"fill":"#EAF4FF","cornerRadius":28},"select":false}},
+  {"command":"text.create","params":{"text":"Absensi tersimpan","x":3804,"y":28,"props":{"fontFamily":"Inter","fontSize":24,"fontWeight":700,"fill":"#24354D"},"select":false}},
+  {"command":"text.create","params":{"text":"Draft lokal dan rekap siap ditinjau","x":3804,"y":68,"props":{"fontFamily":"Inter","fontSize":14,"fill":"#187F79"},"select":false}},
+  {"command":"shape.rectangle","params":{"x":3800,"y":124,"width":320,"height":126,"name":"Recovery summary","props":{"fill":"#EAF4FF","cornerRadius":20,"stroke":"#FFFFFF","strokeWeight":1},"select":false}},
+  {"command":"text.create","params":{"text":"Kelas 1A · Hari ini","x":3824,"y":150,"props":{"fontFamily":"Inter","fontSize":17,"fontWeight":700,"fill":"#24354D"},"select":false}},
+  {"command":"text.create","params":{"text":"12 siswa · Rekap tersedia","x":3824,"y":186,"props":{"fontFamily":"Inter","fontSize":14,"fill":"#687B91"},"select":false}},
+  {"command":"text.create","params":{"text":"Recovery path: buka ulang Absensi untuk melanjutkan draft.","x":3804,"y":300,"props":{"fontFamily":"Inter","fontSize":13,"fill":"#687B91"},"select":false}},
+  {"command":"shape.rectangle","params":{"x":3800,"y":670,"width":320,"height":56,"name":"Back to attendance","props":{"fill":"#FF795C","cornerRadius":18,"stroke":"#E9684C","strokeWeight":1},"select":false}},
+  {"command":"text.create","params":{"text":"Buka absensi","x":3900,"y":689,"props":{"fontFamily":"Inter","fontSize":16,"fontWeight":700,"fill":"#FFFFFF"},"select":false}}
+]

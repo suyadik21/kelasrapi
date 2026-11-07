@@ -1,0 +1,9 @@
+[
+  {"command":"proto.interaction.clear","params":{"ids":[14,21,32,33,37,42]}},
+  {"command":"proto.interaction.add","params":{"id":8,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":26,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":102},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":32,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":102},"transition":{"type":"instant"}}},
+  {"command":"proto.interaction.add","params":{"id":110,"trigger":{"type":"onClick"},"action":{"type":"navigate","dest":21},"transition":{"type":"instant"}}},
+  {"command":"proto.flow.add","params":{"start":102,"name":"Attendance recovery"}},
+  {"command":"file.save","params":{"path":"design/figcraft/kelasrapi.figcraft","overwrite":true}}
+]

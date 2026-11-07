@@ -1,0 +1,27 @@
+{
+  "format": "kelasrapi-teacher-workflow-fixture",
+  "academicContext": {
+    "teacher": { "id": "teacher-1", "name": "Ibu Rina" },
+    "school": { "id": "school-1", "name": "SD Nusantara" },
+    "academicYear": "2026/2027",
+    "semester": 1,
+    "subjects": ["Matematika", "Bahasa Indonesia"]
+  },
+  "classes": [
+    { "id": "class-2b", "name": "Kelas 2B" },
+    { "id": "class-3a", "name": "Kelas 3A" }
+  ],
+  "students": [
+    { "id": "student-2b-1", "classId": "class-2b", "name": "Alya Putri", "nis": "26001" },
+    { "id": "student-2b-2", "classId": "class-2b", "name": "Bima Pratama", "nis": "26002" },
+    { "id": "student-3a-1", "classId": "class-3a", "name": "Citra Lestari", "nis": "26003" }
+  ],
+  "schedules": [
+    { "id": "schedule-2b-math", "classId": "class-2b", "title": "Matematika", "weekday": 1, "startTime": "08:00", "endTime": "09:30" },
+    { "id": "schedule-3a-indo", "classId": "class-3a", "title": "Bahasa Indonesia", "weekday": 1, "startTime": "10:00", "endTime": "11:30" }
+  ],
+  "exceptions": [
+    { "date": "2026-11-16", "kind": "holiday", "reason": "Rapat guru" },
+    { "date": "2026-11-23", "kind": "reschedule", "scheduleId": "schedule-2b-math", "startTime": "13:00", "endTime": "14:30" }
+  ]
+}

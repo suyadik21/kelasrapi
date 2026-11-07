@@ -1,0 +1,82 @@
+{
+  "format": "kelasrapi-backup",
+  "schemaVersion": 1,
+  "createdAt": "2026-11-06T08:00:00.000Z",
+  "data": {
+    "classes": [
+      {
+        "id": "class-a",
+        "name": "Kelas A",
+        "group_name": "Pagi",
+        "archived_at": null
+      },
+      {
+        "id": "class-b",
+        "name": "Kelas B",
+        "group_name": "Pagi",
+        "archived_at": null
+      }
+    ],
+    "students": [
+      {
+        "id": "student-a-1",
+        "class_id": "class-a",
+        "name": "Alya Putri",
+        "sort_order": 0,
+        "archived_at": null
+      },
+      {
+        "id": "student-a-2",
+        "class_id": "class-a",
+        "name": "Bagas Pratama",
+        "sort_order": 1,
+        "archived_at": null
+      },
+      {
+        "id": "student-b-1",
+        "class_id": "class-b",
+        "name": "Citra Lestari",
+        "sort_order": 0,
+        "archived_at": null
+      },
+      {
+        "id": "student-b-2",
+        "class_id": "class-b",
+        "name": "Dimas Saputra",
+        "sort_order": 1,
+        "archived_at": null
+      }
+    ],
+    "schedules": [
+      {
+        "id": "schedule-a",
+        "class_id": "class-a",
+        "title": "Matematika",
+        "weekday": 4,
+        "start_time": "08:00",
+        "end_time": "09:30",
+        "repeat_rule": "weekly",
+        "archived_at": null
+      },
+      {
+        "id": "schedule-b",
+        "class_id": "class-b",
+        "title": "Bahasa Indonesia",
+        "weekday": 4,
+        "start_time": "10:00",
+        "end_time": "11:30",
+        "repeat_rule": "weekly",
+        "archived_at": null
+      }
+    ],
+    "schedule_exceptions": [],
+    "agendas": [],
+    "journals": [],
+    "grading_components": [],
+    "scores": [],
+    "attendance_drafts": [],
+    "reports": [],
+    "backups": []
+  },
+  "integrity": "7d541680"
+}

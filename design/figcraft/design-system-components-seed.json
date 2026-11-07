@@ -1,0 +1,11 @@
+[
+  {"command":"component.createMultiple","params":{"ids":[20,25,19,81]}},
+  {"command":"frame.create","params":{"x":4200,"y":0,"width":360,"height":800,"name":"States and components - Mobile","props":{"fill":"#EAF4FF","cornerRadius":28},"select":false}},
+  {"command":"text.create","params":{"text":"States & components","x":4224,"y":28,"props":{"fontFamily":"Inter","fontSize":24,"fontWeight":700,"fill":"#24354D"},"select":false}},
+  {"command":"shape.rectangle","params":{"x":4220,"y":100,"width":320,"height":68,"name":"Empty state","props":{"fill":"#EAF4FF","cornerRadius":16,"stroke":"#FFFFFF","strokeWeight":1},"select":false}},
+  {"command":"text.create","params":{"text":"Belum ada data","x":4310,"y":125,"props":{"fontFamily":"Inter","fontSize":15,"fontWeight":700,"fill":"#687B91"},"select":false}},
+  {"command":"shape.rectangle","params":{"x":4220,"y":200,"width":320,"height":68,"name":"Loading state","props":{"fill":"#DDEBFA","cornerRadius":16,"stroke":"#FFFFFF","strokeWeight":1},"select":false}},
+  {"command":"text.create","params":{"text":"Memuat data lokal...","x":4290,"y":225,"props":{"fontFamily":"Inter","fontSize":15,"fontWeight":700,"fill":"#187F79"},"select":false}},
+  {"command":"shape.rectangle","params":{"x":4220,"y":300,"width":320,"height":68,"name":"Error state","props":{"fill":"#FFF0EB","cornerRadius":16,"stroke":"#FF795C","strokeWeight":1},"select":false}},
+  {"command":"text.create","params":{"text":"Coba lagi","x":4350,"y":325,"props":{"fontFamily":"Inter","fontSize":15,"fontWeight":700,"fill":"#C94E3B"},"select":false}}
+]

@@ -1,0 +1,32 @@
+{
+  "format": "kelasrapi-backup",
+  "schemaVersion": 1,
+  "createdAt": "2026-11-06T06:10:00.000Z",
+  "data": {
+    "classes": [
+      {
+        "id": "class-restore",
+        "name": "Kelas Restore",
+        "archived_at": null
+      }
+    ],
+    "students": [
+      {
+        "id": "student-restore",
+        "class_id": "class-restore",
+        "name": "Siswa Pulih",
+        "sort_order": 0,
+        "archived_at": null
+      }
+    ],
+    "schedules": [],
+    "agendas": [],
+    "journals": [],
+    "grading_components": [],
+    "scores": [],
+    "attendance_drafts": [],
+    "reports": [],
+    "backups": []
+  },
+  "integrity": "cd509598"
+}
